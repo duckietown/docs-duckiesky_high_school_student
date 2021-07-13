@@ -18,7 +18,7 @@ How does this relate to digital signals? Well, a digital signal is a non-continu
 With regards to applications, most modern electronic devices such as computers and phones encode data as digital signals. Compared with analog signals, digital signals are easier to transmit, better suited for longer distances, and more accurate. If you’re not quite sure why this might be, please watch this video from the 45 second mark: [Analog and digital signals](https://www.youtube.com/watch?v=XCu6L4kQF3k).
 
 <figure>
-    <img style='width:35em' src=“circuit_images/analog_vs_digital.png”/>
+    <img style='width:35em' src="circuit_images/analog_vs_digital.png"/>
 </figure>
 
 Your teacher may assign you to construct a flippydo—a useful paper device that can help you translate our decimal system into binary! Here are links to written instructions and a video explanation for the flippydo: [Flippydo Instructions](https://docs.google.com/document/d/1QnD9khmPUz1az3ZLc5L8vavR6lU0uScspotRhORnHxE/edit), [Video Explanation](https://www.youtube.com/watch?v=wDWj1a4BZjQ).
