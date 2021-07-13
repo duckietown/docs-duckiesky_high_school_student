@@ -28,12 +28,12 @@ Note that in practice, analog signals are often converted to digital signals usi
 
 **Useful Resources and References**
 
-[Analog vs Digital Signals Video](https://www.youtube.com/watch?v=hdtc9_cdfTY)
+1. [Analog vs Digital Signals Video](https://www.youtube.com/watch?v=hdtc9_cdfTY)
 
-[Analog vs Digital Signals Detailed Explanation](https://learn.sparkfun.com/tutorials/analog-vs-digital/all)
+2. [Analog vs Digital Signals Detailed Explanation](https://learn.sparkfun.com/tutorials/analog-vs-digital/all)
 
-[Electronic Signals Overview](https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/section/20.15/primary/lesson/electronic-signal-ms-ps)
+3. [Electronic Signals Overview](https://flexbooks.ck12.org/cbook/ck-12-middle-school-physical-science-flexbook-2.0/section/20.15/primary/lesson/electronic-signal-ms-ps)
 
-[Fun Binary Game!]([https://games.penjee.com/binary-bonanza/](https://games.penjee.com/binary-bonanza/))
+4. [Fun Binary Game!]([https://games.penjee.com/binary-bonanza/](https://games.penjee.com/binary-bonanza/))
 
-[Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
+5. [Glossary](https://docs.google.com/document/d/1LJzESfH8VnLDAitNTwwa-iDZs-zY-KM2v1EuWFoLz6A/edit?usp=sharing)
