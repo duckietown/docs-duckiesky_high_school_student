@@ -18,6 +18,7 @@ How does this relate to digital signals? Well, a digital signal is a non-continu
 With regards to applications, most modern electronic devices such as computers and phones encode data as digital signals. Compared with analog signals, digital signals are easier to transmit, better suited for longer distances, and more accurate. If you’re not quite sure why this might be, please watch this video from the 45 second mark: [Analog and digital signals](https://www.youtube.com/watch?v=XCu6L4kQF3k).
 
 <figure>
+    <figcaption>Graphically Comparing Analog and Digital Signals</figcaption>
     <img style='width:35em' src="circuit_images/analog_vs_digital.png"/>
 </figure>
 
