@@ -14,3 +14,5 @@ Popular IDEs for using Python: [Visual Studio Code](https://code.visualstudio.co
 
 [Online Python IDE](https://replit.com) where students can code and run Python (without installing Python locally). 
 
+Can find more fun Python exercises here: [Practice Python](https://www.practicepython.org), [Leetcode](https://leetcode.com). 
+
