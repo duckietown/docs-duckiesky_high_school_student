@@ -22,7 +22,8 @@ Now that we’ve introduced current, voltage, and resistance, we can explore the
 
 For various engineering applications, and for this upcoming build, it is important to be able to measure voltage, current, and resistance. We can do this using a measuring device known as a digital multimeter. If you are not already familiar with multimeters, please watch this [multimeter tutorial](https://www.youtube.com/watch?v=TdUK6RPdIrA), which does a great job covering the basic functions of a multimeter. Note that your multimeters are not the exact same as the one used in the video. They are very similar however, so the video’s instructions should be straightforward to replicate on your Plusivo multimeter model!
 
-**Other Important Definitions***
+**Other Important Definitions**
+
 Short circuit: Any electrical flow that strays outside its intended circuit with little or no resistance to that flow. The usual cause is bare wires touching one another or wire connections that have come loose.
 
 Open circuit: An electric circuit in which current does not flow. Current can only flow in a circuit if it finds a continuous path—known as a “closed circuit.”
