@@ -8,7 +8,7 @@
  
 **Actuators** - parts on a robot that use energy to _interact_ with its environment
  
-**Controller** - connects the input from the sensors to create an output from the actuators in order to accomplish a goal
+**Controller** - connects the input from the sensors to create an output for the actuators in order to accomplish a goal
  
 </div>
 
@@ -43,7 +43,7 @@
 
 #### Actuators in your drone: 
 
-1. **Motors** - actuators that spin at a variable RPM (revolutions per minute) depending on how much power it recieves (quantity = 4)
+1. **Motors** - actuators that spin at a variable RPM (revolutions per minute) depending on how much power it receives (quantity = 4)
  
 <figure>
    <figcaption>2 CW and 2 CCW Motors</figcaption>
@@ -66,7 +66,7 @@
 
 #### Controllers in your drone: 
 
-1. **Electronic Speed Controllers (ESCs)** - small computers that react extremely quickly to accomplish to simply keep the motors spinning at a particular speed by sending it a variable amount of power based on the input it recieves (quantity = 4)
+1. **Electronic Speed Controllers (ESCs)** - small computers that react extremely quickly to keep the motors spinning at a particular speed by sending it a variable amount of power based on the input it receives (quantity = 4)
  
 <figure>
    <figcaption>1 ESC for each Motor</figcaption>
