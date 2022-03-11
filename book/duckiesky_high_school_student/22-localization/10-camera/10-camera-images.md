@@ -16,6 +16,6 @@ Of course, there is a lot math and code behind the picture matching process of t
 
 3. Set the spacing to 0 and check off the transparent borders box.
 
-4. Lastly on the right hand side of the page click on the import button to upload the images of your map.(Make sure to have all pictures taken from the same distance to have the most accurate stitching).
+4. Lastly on the right hand side of the page click on the import button to upload the images of your map. (Make sure to have all pictures taken from the same distance to have the most accurate stitching).
 
  
