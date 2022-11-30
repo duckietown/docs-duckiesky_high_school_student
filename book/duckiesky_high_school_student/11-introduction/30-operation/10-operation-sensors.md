@@ -66,7 +66,7 @@
 
 #### Controllers in your drone: 
 
-1. **Electronic Speed Controllers (ESCs)** - small computers that react extremely quickly to accomplish to simply keep the motors spinning at a particular speed by sending it a variable amount of power based on the input it recieves (quantity = 4)
+1. **Electronic Speed Controllers (ESCs)** - small computers that react extremely quickly to keep the motors spinning at a particular speed by sending a variable amount of power based on input they receive (quantity = 4)
  
 <figure>
    <figcaption>1 ESC for each Motor</figcaption>
